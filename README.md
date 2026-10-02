@@ -27,8 +27,8 @@ Free online dashboard and real time controls from any device.
 
 1. **Download/Clone Repository:**
 ```bash
-git clone https://github.com/your-repo/Smart-Parking-Control-Software.git
-cd Smart-Parking-Control-Software
+git clone https://github.com/ANPR-wyom/GCC-Automatic-Number-Plate-Recognition
+cd GGC-Smart-Parking-Control-Software
 
 ```
 
